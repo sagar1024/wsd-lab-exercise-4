@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT products (product+)>
+<!ELEMENT product (productName,price,quantity,category)>
+<!ATTLIST product productID CDATA #REQUIRED>
+<!ELEMENT productName (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT Electronics EMPTY>
+<!ELEMENT Clothing EMPTY>
+<!ELEMENT Books EMPTY>

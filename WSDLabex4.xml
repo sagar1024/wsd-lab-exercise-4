@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="WSDLabex4.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<Products>
+
+    <Product productID="P101">
+      <productName>Iphone</productName>
+      <price>450.00</price>
+      <quantity>50</quantity>
+      <category>Electronics</category>
+    </Product>
+
+    <Product productID="P102">
+      <productName>Smartwatch</productName>
+      <price>100.00</price>
+      <quantity>100</quantity>
+      <category>Electronics</category>
+    </Product>
+
+    <Product productID="P103">
+      <productName>Sweater</productName>
+      <price>50.00</price>
+      <quantity>80</quantity>
+      <category>Clothing</category>
+    </Product>
+
+    <Product productID="P104">
+      <productName>Shirt</productName>
+      <price>40.00</price>
+      <quantity>250</quantity>
+      <category>Clothing</category>
+    </Product>
+
+    <Product productID="105">
+      <productName>Learn C++</productName>
+      <price>80.00</price>
+      <quantity>150</quantity>
+      <category>Books</category>
+    </Product>
+
+  </Products>
+  
